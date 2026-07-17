@@ -119,6 +119,7 @@ header {
 .dropdown-menu a {
     display: block;
     padding: 10px 18px;
+    white-space: nowrap;
 }
 
 .dropdown-menu a:hover {
